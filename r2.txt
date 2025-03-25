@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is file created in repository
+=======
+this is file2 created in fb
+>>>>>>> 5e137e7 (r2.txt addedin fb)
